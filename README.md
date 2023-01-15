@@ -1,5 +1,5 @@
 # zmdockerfiles
-This repository contains Docker files used in various ways for the ZoneMinder project.
+This repository contains Docker files used in various ways for the ZoneMinder project. Forked to provide updated Ubuntu 22.04 images, routinely built on Docker Hub.
 
 ## Usage
 
